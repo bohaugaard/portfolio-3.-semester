@@ -1,0 +1,19 @@
+
+---Upload files---
+Widget file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+Customizer file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 50
+Files info:
+Site URL = https://haugard.dk
+Data file = /customers/7/d/2/haugard.dk/httpd.www/wp-content/uploads/2020/02/wpml-config-2.xml
+Widget file = not defined!
+Customizer file = not defined!
+
+---Importing content---
+
+Max execution time after content import = 300
