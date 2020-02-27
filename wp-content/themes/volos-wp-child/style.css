@@ -29,3 +29,9 @@
     margin-left: 2.7rem;
 }
 
+
+/* Midterste streg i burgermenu er nu hvid */
+#toggle:after, .ccb-css #toggle .menu-line, .ccb-css .pagination-div:after, .ccb-css .portfolio-cat:before, .ccb-css .owl-theme .owl-dots .owl-dot span, .ccb-css .owl-theme .owl-dots .owl-dot:hover span {
+    background-color: #fff;
+}
+
