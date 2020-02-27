@@ -5,7 +5,7 @@
  Author:       Bo Haugaard
  Author URI:   https://haugard.dk
  Template:     volos-wp
- Version:      1.1.0
+ Version:      1.2.0
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
@@ -18,4 +18,9 @@
     max-width: 20%;
 }
 
+
+/* Burgermenu er blevet grøn */
+.ccb-css #toggle:before, .ccb-css #toggle:after, .ccb-css #toggle .menu-line, .ccb-css .pagination-div:after, .ccb-css .portfolio-cat:before, .ccb-css .owl-theme .owl-dots .owl-dot span, .ccb-css .owl-theme .owl-dots .owl-dot:hover span {
+    background-color: #23A455;
+}
 
